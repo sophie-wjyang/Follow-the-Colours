@@ -1,2 +1,2 @@
 # Follow-the-Colours
-A Java-based "Simon Says" desktop game utilizing mouse-listeners, random map generation, and variable game modes. 
+Using Java, our team created a simulation of the game "Simon Says", with features such as mouse-listeners, music and sound effects, random map generation, and different game modes. 
